@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+
+.header__all{
+  background-color: cornflowerblue;
+}
+
+.header__text{
+  color: aliceblue;
+  margin-left: 10px;
+}
+
+.header__img{
+  width: 55px;
+  height: 55px;
+}
+
+.header__tittle{
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.header__inner{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.LinkRedirect{
+  text-decoration: none;
+  color: white;
+}
+
+.ButtonLogin{
+  margin-left: 20px;
+}
+
+.Button__reg{
+  width: 240px;
+}

@@ -1,0 +1,15 @@
+
+
+.MainTitle{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 100vh;
+}
+
+
+.MainTitleBox{
+  height: 100vh;
+  max-width: 1300px;
+  margin: 0 auto;
+}

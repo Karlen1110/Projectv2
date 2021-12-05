@@ -1,0 +1,69 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+
+.Container{
+  margin: 0 auto;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  max-width: 1079px;
+  height: 100vh;
+}
+.Text__Reg{
+  margin: 0;
+}
+
+.RegForm__inner{
+  text-align: center;
+}
+
+.RegForm__title{
+  padding-top: 100px;
+}
+
+.Container__form{
+  padding-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  max-width: 450px;
+  height: 475px;
+  background-color: cornflowerblue;
+  border-radius: 20px;
+}
+
+.LoginText{
+  text-align: left;
+  margin: 0px;
+  padding-bottom: 5px;
+  padding-top: 50px;
+}
+
+.PasswordText{
+  text-align: left;
+  margin: 0px;
+  padding-bottom: 5px;
+  padding-top: 40px;
+}
+
+.EmailText{
+  text-align: left;
+  margin: 0px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.ButtonReg{
+  padding-top: 40px;
+}
+
+.RegForm__texfields{
+  margin: 0 auto;
+  width: 200px;
+}
+
+.InputBlockEmail{
+  height: 80px;
+}
